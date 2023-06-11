@@ -176,6 +176,9 @@ html {
   font-family: Helvetica;
   text-shadow: 1px 1px 2px black, 0 0 4px white, 0 0 1px white;
 }
+.name-txt{
+  text-shadow: 1px 1px 2px black, 0 0 1px white, 0 0 1px white;
+}
 
 .header {
   height: 900px;

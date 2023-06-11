@@ -69,7 +69,7 @@ export const ResponsiveWrapper = styled.div`
 export const StyledLogo = styled.div`
   text-align: center;
   margin-top: 75px;
-  margin-bottom: 75px;
+  margin-bottom: 15px;
   color: var(--secondary);
   // text-shadow: 1px 1px 2px black, 0 0 8px white, 0 0 1px white;
   font-size: 80px;
@@ -207,7 +207,8 @@ function App() {
       <Nav />
       <div className="header" style={{ backgroundImage: `url(${header})` }}>
         <s.Container flex={1} ai={"center"}>
-          <StyledLogo className="logo-txt">PolyAliens Minting - By Rachit</StyledLogo>
+          <StyledLogo className="logo-txt">PolyAliens Minting</StyledLogo>
+          <p className="name-txt text-xl text-center text-white font-medium mb-10">-By Rachit</p>
           <p className="header-mint-txt text-2xl text-center text-white">MINTING LIVE NOW!</p>
           <s.SpacerSmall />
           <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
