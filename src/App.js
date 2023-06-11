@@ -207,7 +207,7 @@ function App() {
       <Nav />
       <div className="header" style={{ backgroundImage: `url(${header})` }}>
         <s.Container flex={1} ai={"center"}>
-          <StyledLogo className="logo-txt">Rachit</StyledLogo>
+          <StyledLogo className="logo-txt">PolyAliens Minting - By Rachit</StyledLogo>
           <p className="header-mint-txt text-2xl text-center text-white">MINTING LIVE NOW!</p>
           <s.SpacerSmall />
           <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
