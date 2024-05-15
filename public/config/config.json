@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xA041f31be46B7CfC470C2e450AE04da5804Eff0f",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xA041f31be46B7CfC470C2e450AE04da5804Eff0f",
+  "CONTRACT_ADDRESS": "0x3f9c25426578fc958087a6b351c4d50d9902ca2b",
+  "SCAN_LINK": "https://sepolia.etherscan.io/address/0x3f9c25426578fc958087a6b351c4d50d9902ca2b",
   "NETWORK": {
-    "NAME": "Polygon Mumbai",
-    "SYMBOL": "MATIC",
-    "ID": 80001
+    "NAME": "Sepolia",
+    "SYMBOL": "ETH",
+    "ID": 11155111
   },
   "NFT_NAME": "PolyAliens",
   "SYMBOL": "PA",
